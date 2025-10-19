@@ -6,9 +6,10 @@ A small project demonstrating text preprocessing on a TMDB movies dataset. Conta
 
 ## 🔎 What this repo contains
 
+- Example on data collection using API
+  
 - Example preprocessing: tokenization, lowercasing, stopword removal, lemmatization/stemming, punctuation removal.
 
-- Exported cleaned dataset suitable for downstream NLP tasks (topic modeling, classification).
 
 ## 🤝 Contribution
 
